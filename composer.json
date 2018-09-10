@@ -1,0 +1,26 @@
+{
+  "name": "atta-ul-mohsin/lumen-routes-list",
+  "license": "MIT",
+  "description": "Display the route list of Lumen",
+  "keywords": [
+    "lumen",
+    "route list"
+  ],
+  "authors": [
+    {
+      "name": "Atta ul mohsin",
+      "email": "attaulmohsin@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Atamohsin\\LumenRouteList\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
